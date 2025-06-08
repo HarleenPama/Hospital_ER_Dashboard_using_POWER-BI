@@ -38,8 +38,7 @@ To improve patient care, streamline emergency room operations, and identify tren
 ## 📂 Files Included
 
 - `Hospital_ER_Dashboard.pdf` – Exported PDF report containing dashboard visuals and key findings.
-- `Hospital_ER_Dashboard.pbix` ![Screenshot 2025-06-09 000602](https://github.com/user-attachments/assets/8428797d-98bb-4a37-9aca-7357752bbc8a)
-– Editable Power BI file containing the full interactive dashboard.
+- `Hospital_ER_Dashboard.pbix` – Editable Power BI file containing the full interactive dashboard.
 
 ---
 
