@@ -72,5 +72,4 @@ To improve patient care, streamline emergency room operations, and identify tren
 This project is for educational, analytical, and demonstration purposes. Please ensure all use of medical data complies with applicable privacy laws and institutional guidelines (e.g., HIPAA).
 
 ---
-![Screenshot 2025-06-09 000602](https://github.com/user-attachments/assets/f02baf42-e8e7-4ec5-9397-5771e329bc0f)  ![Screenshot 2025-06-09 000628](https://github.com/user-attachments/assets/d096ccaf-189f-495c-85a9-ae9cf8710d13)
-
+![Screenshot 2025-06-09 000602](https://github.com/user-attachments/assets/f02baf42-e8e7-4ec5-9397-5771e329bc0f)  
