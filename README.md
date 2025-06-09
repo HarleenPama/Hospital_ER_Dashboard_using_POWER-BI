@@ -72,4 +72,8 @@ To improve patient care, streamline emergency room operations, and identify tren
 This project is for educational, analytical, and demonstration purposes. Please ensure all use of medical data complies with applicable privacy laws and institutional guidelines (e.g., HIPAA).
 
 ---
-![Screenshot 2025-06-09 000602](https://github.com/user-attachments/assets/f02baf42-e8e7-4ec5-9397-5771e329bc0f)  
+## 📊 Insights Dashboard
+
+The **Insights Dashboard** provides focused analytical views to support operational decision-making and strategic planning for the hospital emergency room. This page distills complex data into actionable visuals and metrics.
+![Screenshot 2025-06-09 231505](https://github.com/user-attachments/assets/ceea5bab-a9b0-46ee-8482-9084b568e44c)
+
