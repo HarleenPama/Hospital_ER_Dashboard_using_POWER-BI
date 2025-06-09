@@ -35,21 +35,6 @@ To improve patient care, streamline emergency room operations, and identify tren
 
 ---
 
-## 📂 Files Included
-
-- `Hospital_ER_Dashboard.pdf` – Exported PDF report containing dashboard visuals and key findings.
-- `Hospital_ER_Dashboard.pbix` – Editable Power BI file containing the full interactive dashboard.
-
----
-
-## 📈 Summary of Insights
-
-- **High ER Traffic**: Mondays and weekends are the busiest days.
-- **Referral Trends**: Over 5,400 patients had no referral; top departments include General Practice and Orthopedics.
-- **Demographics**: Most patients were aged 20–49. The largest racial group was White, followed by African American and Multi-racial individuals.
-- **Operational Challenge**: Only 59.3% of patients were seen within 30 minutes.
-
----
 
 ## 🛠️ Tools Used
 
@@ -58,22 +43,27 @@ To improve patient care, streamline emergency room operations, and identify tren
 
 ---
 
-## 🚀 Getting Started
+## 📂 Files Included
 
-1. Open the `.pbix` file in Power BI Desktop (if included).
-2. Use available filters (year, month, department, etc.) to explore specific insights.
-3. Refer to the PDF for a static summary of key data trends.
+- `Hospital_ER_Dashboard.pdf` – Exported PDF report containing dashboard visuals and key findings.
+- `Hospital_ER_Dashboard.pbix` – Editable Power BI file containing the full interactive dashboard.
 
 ---
 
-
-## 📄 License
-
-This project is for educational, analytical, and demonstration purposes. Please ensure all use of medical data complies with applicable privacy laws and institutional guidelines (e.g., HIPAA).
 
 ---
 ## 📊 Insights Dashboard
 
 The **Insights Dashboard** provides focused analytical views to support operational decision-making and strategic planning for the hospital emergency room. This page distills complex data into actionable visuals and metrics.
+
+
 ![Screenshot 2025-06-09 231505](https://github.com/user-attachments/assets/ceea5bab-a9b0-46ee-8482-9084b568e44c)
 
+### 🔍 Key Takeaways
+
+- **59.32%** of patients are seen within the target wait time.
+- Most common **referrals** go to **General Practice** and **Orthopedics**.
+- Highest patient count in the **30–39** age group.
+- **Satisfaction score is slightly higher** in 2024 compared to 2023.
+- **Males** report higher satisfaction scores than females or others.
+- **Mondays** and **evening hours (4–8 PM)** tend to be the busiest.
