@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard
 
-This project is a Power BI dashboard that provides a detailed analysis of emergency room operations, patient demographics, referral patterns, and efficiency metrics. Built using real-world hospital data over a 19-month period (April 2023 – October 2024), the dashboard aims to support data-driven decision-making in healthcare environments.
+This project is a Power BI dashboard that provides a detailed analysis of emergency room operations, patient demographics, referral patterns, and efficiency metrics.It is built using real-world hospital data over a 19-month period (April 2023 – October 2024),and the dashboard aims to support data-driven decision-making in healthcare environments.
 
 ---
 
@@ -12,26 +12,19 @@ To improve patient care, streamline emergency room operations, and identify tren
 
 ## 📊 Key Features
 
-- **📅 Monthly and Consolidated Views**  
-  Interactive reports showing trends by month and over the full dataset period.
+- **📅 Monthly and Consolidated Views**  -Interactive reports showing trends by month and over the full dataset period.
 
-- **⏱️ Wait Time Analysis**  
-  Tracks average patient wait time (35.3 minutes overall).
+- **⏱️ Wait Time Analysis**  -Tracks average patient wait time (35.3 minutes overall).
 
-- **⭐ Patient Satisfaction Score**  
-  Aggregated score based on patient feedback (average: 4.99/10).
+- **⭐ Patient Satisfaction Score**  -Aggregated score based on patient feedback (average: 4.99/10).
 
-- **🏥 Admission Status Breakdown**  
-  Nearly even split between admitted (50.04%) and non-admitted (49.96%) patients.
+- **🏥 Admission Status Breakdown**  -Nearly even split between admitted (50.04%) and non-admitted (49.96%) patients.
 
-- **🩺 Departmental Referrals**  
-  Insight into referrals, with General Practice and Orthopedics being the most common.
+- **🩺 Departmental Referrals**  -Insight into referrals, with General Practice and Orthopedics being the most common.
 
-- **📅 Peak Hours and Days**  
-  Highlights high-traffic periods like Mondays and late evenings to support optimal staffing.
+- **📅 Peak Hours and Days**  -Highlights high-traffic periods like Mondays and late evenings to support optimal staffing.
 
-- **👥 Demographics Analysis**  
-  Visualizations by age group, gender, and race across over 9,000 patients.
+- **👥 Demographics Analysis**  -Visualizations by age group, gender, and race across over 9,000 patients.
 
 ---
 
@@ -39,7 +32,7 @@ To improve patient care, streamline emergency room operations, and identify tren
 ## 🛠️ Tools Used
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
-- CSV/Excel for Hospital ER Data
+- CSV file for Hospital ER Data
 
 ---
 
@@ -55,9 +48,7 @@ To improve patient care, streamline emergency room operations, and identify tren
 ## 📊 Insights Dashboard
 
 The **Insights Dashboard** provides focused analytical views to support operational decision-making and strategic planning for the hospital emergency room. This page distills complex data into actionable visuals and metrics.
-
-
-![Screenshot 2025-06-09 231505](https://github.com/user-attachments/assets/ceea5bab-a9b0-46ee-8482-9084b568e44c)
+## ![Screenshot 2025-06-09 231505](https://github.com/user-attachments/assets/ceea5bab-a9b0-46ee-8482-9084b568e44c)
 
 ### 🔍 Key Takeaways
 
